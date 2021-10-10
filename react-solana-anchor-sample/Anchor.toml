@@ -1,0 +1,12 @@
+[programs.localnet]
+mysolana5 = "EZZ7HVSRHfLh9ZZyvf5j4RoXQh7mRzTQHrHmkMFPBUtG"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "devnet"
+wallet = "/Users/preethamnadig/.config/solana/devnet.json"
+
+[scripts]
+test = "mocha -t 1000000 tests/"

@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/preethamnadig/Documents/Coding/solana/mysolana5/target/rls/debug/build/typenum-94bcf9612c9b99aa/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/preethamnadig/Documents/Coding/solana/mysolana5/target/rls/debug/build/typenum-94bcf9612c9b99aa/out/op.rs
